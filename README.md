@@ -234,10 +234,14 @@ http://nltk.org/install.html
  <img width=500px src="./assets/15/gbasic.py_Top15_participants_organizations.jpg"></a>
 </p>
 
-- `gword.py` and `gline.py`
+- `gword.py`, `gline.py`, `gmodel.py`
 <p align="center">
   <a href="" rel="noopener">
  <img width=500px src="./assets/1000/2.jpg"></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./assets/sql/gmodel.py_to_produce_index.sqlite_database.jpg"></a>
 </p>
 
 ## Visualization using D3.js
