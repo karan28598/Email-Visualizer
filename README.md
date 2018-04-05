@@ -228,20 +228,35 @@ http://mbostock.github.io/d3/talk/20111018/calendar.html
 http://nltk.org/install.html
 
 ## Terminal
+
+- A screen shot of SQLiteBrowser showing messages downloaded from mbox.dr-chuck.net into the content.sqlite database
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./assets/sql/content.sqlite_in_SQLiteBrowser.PNG"></a>
+</p>
+
+- A screen shot of running the gmodel.py application to produce the index.sqlite database.
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./assets/sql/gmodel.py_to_produce_index.sqlite_database.jpg"></a>
+</p>
+
+- A screen shot of SQLiteBrowser showing messages in the index.sqlite database after the gmodel.py has executed.
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./assets/sql/index.sqlite_in_SQLiteBrowser.PNG"></a>
+</p>
+
 - A screen shot of the `gbasic.py`(top 15 participant orgs) program to compute basic histogram data on the messages retrieved.
 <p align="center">
   <a href="" rel="noopener">
  <img width=500px src="./assets/15/gbasic.py_Top15_participants_organizations.jpg"></a>
 </p>
 
-- `gword.py`, `gline.py`, `gmodel.py`
+- `gword.py` and `gline.py`
 <p align="center">
   <a href="" rel="noopener">
  <img width=500px src="./assets/1000/2.jpg"></a>
-</p>
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px src="./assets/sql/gmodel.py_to_produce_index.sqlite_database.jpg"></a>
 </p>
 
 ## Visualization using D3.js
