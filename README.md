@@ -228,27 +228,63 @@ http://mbostock.github.io/d3/talk/20111018/calendar.html
 http://nltk.org/install.html
 
 ## Terminal
-A screen shot of the gbasic.py(top 15 participant orgs) program to compute basic histogram data on the messages retrieved.
+- A screen shot of the `gbasic.py`(top 15 participant orgs) program to compute basic histogram data on the messages retrieved.
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./assets/gbasic.py_Top15_participants_organizations.jpg"></a>
+ <img width=500px src="./assets/15/gbasic.py_Top15_participants_organizations.jpg"></a>
+</p>
+
+- `gword.py` and `gline.py`
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./assets/1000/2.jpg"></a>
 </p>
 
 ## Visualization using D3.js
 - A screen shot of word cloud visualization for the messages retrieved.
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./assets/WordCloud_Visualization.PNG"></a>
+ <img width=500px src="./assets/15/WordCloud_Visualization.PNG"></a>
 </p>
 
 - A screen shot of time line visualization for the messages retrieved.
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./assets/TimeLine_Visualization.PNG"></a>
+ <img width=500px src="./assets/15/TimeLine_Visualization.PNG"></a>
 </p>
 
 - Changed the gline.py program to show the message count by month instead of by year. Switched from a by-year to a by-month visualization by changing only a few lines in gline.py. The puzzle is to figure out the smallest change to accomplish the change.
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./assets/Month_Visualization.PNG"></a>
+ <img width=500px src="./assets/15/Month_Visualization.PNG"></a>
+</p>
+
+## More Visualizations
+
+- 50 Organizations
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./assets/50/1.PNG"></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./assets/50/2.PNG"></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./assets/50/3.PNG"></a>
+</p>
+
+- 1000 Organizations
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./assets/1000/1.PNG"></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./assets/1000/3.PNG"></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./assets/1000/4.PNG"></a>
 </p>
