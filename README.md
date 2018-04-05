@@ -264,27 +264,27 @@ http://nltk.org/install.html
 - 50 Organizations
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./assets/50/1.PNG"></a>
+ <img width=500px src="./assets/50/1.png"></a>
 </p>
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./assets/50/2.PNG"></a>
+ <img width=500px src="./assets/50/2.png"></a>
 </p>
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./assets/50/3.PNG"></a>
+ <img width=500px src="./assets/50/3.png"></a>
 </p>
 
 - 1000 Organizations
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./assets/1000/1.PNG"></a>
+ <img width=500px src="./assets/1000/1.png"></a>
 </p>
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./assets/1000/3.PNG"></a>
+ <img width=500px src="./assets/1000/3.png"></a>
 </p>
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./assets/1000/4.PNG"></a>
+ <img width=500px src="./assets/1000/4.png"></a>
 </p>
